@@ -1,12 +1,18 @@
 {
     "ID": "01",
     "Created by": "Yuriy Makevkin",
-    "Severety": ""
-    "Priority"
-    "Environmant"
-    "Title"
-    "Steps"
-    "Expected Result"
-    "Actual Result"
-    "Attachment"
+    "Severety": "Trivial",
+    "Priority": "Midle",
+    "Environmant": "Windows 10, Chrom 112",
+    "Title": "Link 'Topic' on the main page is not clicability"
+    "Steps": 
+        {
+            1. Navigate to main page
+            2. Select block 'About'
+            3. Click to Link
+        }
+    "Expected Result": "Open the page 'About'",
+    "Actual Result": "The page not open"
+    "Attachment": "http://......"
+}
   
