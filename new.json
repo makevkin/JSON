@@ -1,5 +1,8 @@
-""[DName":"Юрий",
-"Second name": "Макевкин"
-"Age": "46",
-"Number of pets": "3",
-"Futuri desired salary": "1000-1500$"
+{
+
+	"Name":"Юрий",
+	"Second name": "Макевкин",
+	"Age": "46",
+	"Number of pets": "3",
+	"Future desired salary": "1000-1500$"
+}
